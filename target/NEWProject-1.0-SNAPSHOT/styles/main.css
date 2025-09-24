@@ -1,0 +1,46 @@
+/* The styles for the elements */
+body { 
+    font-family: Time New Romans, Helvetica, sans-serif;
+    font-size: 85%;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+h1 {     
+    font-size: 200%;
+    text-align: left;
+    color: teal;
+    margin-bottom: .5em;    
+}
+br {
+    clear: both;
+}
+
+#quantity {
+    width: 3em;
+}
+
+/* The styles for the tables */
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50em;
+}
+th, td {
+    border: 1px solid black;
+    text-align: left;
+    padding: .5em;
+}
+.right {
+    text-align: center;
+}
+.t1{
+    text-align: center;
+}
+.update{
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+}
+.des{
+    white-space: nowrap;
+}

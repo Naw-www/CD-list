@@ -1,0 +1,10 @@
+com\mycompany\newproject\resources\JakartaEE11Resource.class
+murach\cart\RemoveProduct.class
+murach\business\Product.class
+murach\cart\ProductsServlet.class
+murach\load\AppContextListener.class
+murach\business\Cart.class
+murach\cart\CartServlet.class
+com\mycompany\newproject\JakartaRestConfiguration.class
+murach\business\LineItem.class
+murach\data\ProductIO.class
